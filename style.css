@@ -1,0 +1,78 @@
+body{
+  background-image: url("https://media.istockphoto.com/id/1411436221/photo/dark-street-wet-asphalt-abstract-dark-blue-background-empty-dark-scene-neon-light-spotlights.jpg?s=1024x1024&w=is&k=20&c=ESH-rkWwL-n7n9yShjAJjx2D_l70Mx7X6AK5wGYhg3s=");
+  
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center ;
+}
+#logo i {
+  width: 100%;
+  height: 100%;
+  
+
+}
+#logo{
+  color: #3E567C;
+  font-size: 3rem;
+  font-weight: bold;
+  margin: auto;
+  border: none;
+  outline: none;
+ 
+}
+h1{
+  box-shadow: 0px 0px 10px 0px rgba(86, 196, 204, 0.5);
+  color: cornflowerblue;
+  
+}
+
+.message-container{
+  background-color: #C0C0C0;
+  margin: auto;
+  width: 90%;
+  height: 75vh;
+  border-radius: 10px;
+  overflow-y: auto;
+  background-image: url("https://media.istockphoto.com/id/1473100428/photo/wooden-chopping-board-background-or-backdrop.jpg?s=612x612&w=0&k=20&c=PZ1-11eucnYvIpdrIFBO0acAQdfRhUPnIPCfxmFVmh0=");
+  background-size: cover;
+}
+.message{
+  width: 20%;
+  border: 2px solid black;
+  background-color: #D1AC5F;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 2rem;
+  font-size: 1.5rem;
+
+  
+}
+.right{
+  float: right;
+  clear: both;
+}
+
+.left{
+  float: left;
+  clear: both;
+}
+#inp{
+  background-color: #C0C0C0;
+  margin: auto;
+  width: 170vh;
+  height: 6vh;
+  border: none;
+  background-color: white;
+  outline: none;
+  border-radius: 10px;
+}
+
+#btn{
+  height: 6vh;
+  width: 4rem;
+  font-size: large;
+  border: none;
+  border-radius: 2rem;
+  margin: 5px;
+}
